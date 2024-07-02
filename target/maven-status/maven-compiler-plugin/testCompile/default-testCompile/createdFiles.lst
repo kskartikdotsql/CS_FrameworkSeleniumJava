@@ -1,0 +1,9 @@
+testsuite\TestMethods.class
+objects\InventoryPageAfterLogin.class
+repository\Repository.class
+objects\Dashboard.class
+com\br\PageObjectModelDemo\AppTest.class
+fedricbeaust\MyTest.class
+objects\LoginPage.class
+locators\Locators.class
+objects\Home.class
